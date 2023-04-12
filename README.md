@@ -138,7 +138,6 @@
 | "Mo"                         | "Motion" | True             |
 | "gs"                         | "Songs"  | False            |
 | "abababa"                    | "ab"     | False            |
-
 |                              |          |                  |
 | Boundary Value Analysis:     |          |                  |
 | s1                           | s2       |                  |
